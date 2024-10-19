@@ -14,11 +14,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-al-kafi-1aabb7263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-al-kafi-1aabb7263/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100032662143196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100032662143196" height="30" width="40" /></a>
+</p>
 
 ###
 
@@ -30,7 +29,19 @@
 
 
 
-<h2 align="left">- 🔭 I’m working as mern stack in a local team.<br>- 📚 I'm currently learning Socket and radis.</h2>
+- 🌱 I’m currently learning **C Programming language**
+
+- 👯 I’m looking to collaborate on **Nextjs**
+
+- 👨‍💻 All of my projects are available at [https://my-portfolio-website-black.vercel.app/](https://my-portfolio-website-black.vercel.app/)
+
+- 💬 Ask me about **reactjs,nodejs,nextjs,mongodb,typescript,mongoose**
+
+- 📫 How to reach me **abdullahalkafi742@gmail.com**
+
+- 📄 Know about my experiences [https://my-portfolio-website-black.vercel.app/](https://my-portfolio-website-black.vercel.app/)
+
+
 
 ###
 
