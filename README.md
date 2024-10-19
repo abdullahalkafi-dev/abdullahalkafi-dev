@@ -1,33 +1,83 @@
-<h1 align="center">Hi 👋, I'm Abdullah Al Kafi</h1>
-<h3 align="center">I'm a javascript developer. I work on MERN stack and Nextjs. I am continuous learner.</h3>
+<br clear="both">
 
-
-
-
-- 👯 I’m looking to collaborate on **Nextjs**
-
-- 👨‍💻 All of my projects are available at [https://my-portfolio-website-black.vercel.app/](https://my-portfolio-website-black.vercel.app/)
-
-- 💬 Ask me about **reactjs,nodejs,nextjs,mongodb,typescript,mongoose**
-
-- 📫 How to reach me **abdullahalkafi742@gmail.com**
-
-- 📄 Know about my experiences [https://my-portfolio-website-black.vercel.app/](https://my-portfolio-website-black.vercel.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullah-al-kafi-1aabb7263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-al-kafi-1aabb7263/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100032662143196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100032662143196" height="30" width="40" /></a>
-</p>
-    
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<div>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah-1922&show_icons=true&locale=en" alt="abdullah-1922" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-1922&" alt="abdullah-1922" /></p>
+<div align="center">
+  <img height="500" src="https://res.cloudinary.com/dwirxf3qm/image/upload/v1729369660/developer_urnah7.png"  />
 </div>
 
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-1922&show_icons=true&locale=en&layout=compact" alt="abdullah-1922" /></p>
+<h1 align="center">Hi, I am Abdullah Al Kafi.</h1>
+
+###
+
+<h3 align="center">A JavaScript Full stack developer.</h3>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
+
+###
+
+<h1 align="left">👩‍💻  About Me</h1>
+
+###
+
+<h3 align="left">Hello! I'm Abdullah Al Kafi, A Full-Stack Web Developer with expertise in building high-quality, scalable solutions using modern web technologies. I am passionate about creating seamless user experiences and continuously learning new skills. Let's collaborate on something amazing! 🚀</h3>
+
+
+
+<h2 align="left">- 🔭 I’m working as mern stack in a local team.<br>- 📚 I'm currently learning Socket and radis.</h2>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="70" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="70" alt="tailwindcss logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=js" height="70" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=react" height="70" alt="react logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="70" alt="nodejs logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=express" height="70" alt="express logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="70" alt="mongodb logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="70" alt="firebase logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=redux" height="70" alt="redux logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=ts" height="70" alt="typescript logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="70" alt="nextjs logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-1922&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdullah-1922&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Abdullah-1922&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
