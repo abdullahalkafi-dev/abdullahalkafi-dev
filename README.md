@@ -39,7 +39,7 @@
 
 - 📫 How to reach me **abdullahalkafi742@gmail.com**
 
-- 📄 Know about my experiences [https://my-portfolio-website-black.vercel.app/](https://my-portfolio-website-black.vercel.app/)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vzZOzN9bIf1h68XBmNipGopqKf1is066/view?usp=sharing](https://drive.google.com/file/d/1vzZOzN9bIf1h68XBmNipGopqKf1is066/view?usp=sharing)
 
 
 
